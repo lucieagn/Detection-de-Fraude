@@ -28,7 +28,7 @@ L'objectif est de créer un modèle de classification capable d'identifier les d
 1. **Exploration des données** : Analyse des tendances et des distributions des variables.
 2. **Prétraitement** : Gestion des valeurs manquantes, encodage des variables catégorielles, normalisation des données.
 3. **Sélection des caractéristiques** : Identifier les variables les plus pertinentes pour la prédiction.
-4. **Construction de modèles de classification** : Entraînement de plusieurs modèles (Random Forest, XGBoost, SVM, Réseaux de Neurones, etc.).
+4. **Construction de modèles de classification** : Entraînement de plusieurs modèles
 5. **Évaluation et comparaison des modèles** : Sélection du modèle le plus performant.
 6. **Prédiction sur les nouvelles données** : Appliquer le modèle final aux nouvelles déclarations.
 
